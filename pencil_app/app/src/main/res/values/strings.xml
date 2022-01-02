@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">pencil_app</string>
+
+    <string-array name="writing_modes">
+        <item>Graphite pencil</item>
+        <item>Colored pencil</item>
+    </string-array>
 </resources>
